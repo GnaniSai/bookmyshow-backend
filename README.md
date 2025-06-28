@@ -52,8 +52,8 @@ A complete backend API for a movie ticket booking system similar to BookMyShow, 
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd bms-express
+   git clone https://github.com/GnaniSai/bookmyshow-backend.git
+   cd bookmyshow-backend
    ```
 
 2. **Install dependencies**
