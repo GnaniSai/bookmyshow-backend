@@ -1,5 +1,5 @@
 {
-  "name": "bms-express",
+  "name": "bookmyshow-backend",
   "version": "1.0.0",
   "description": "BookMyShow Backend API",
   "main": "server.js",
@@ -18,13 +18,5 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": [
-    "bookmyshow",
-    "movie-booking",
-    "express",
-    "mongodb",
-    "jwt"
-  ],
-  "author": "",
-  "license": "MIT"
+  "author": ""
 }
